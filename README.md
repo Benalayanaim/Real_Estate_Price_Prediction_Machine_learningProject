@@ -14,4 +14,4 @@ dataset from kaggle.com.
 
 -Sklearn for model building
 
--Jupyter notebook,
+-Jupyter notebook.
